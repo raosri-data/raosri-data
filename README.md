@@ -1,4 +1,4 @@
-## Hi there 👋
+## Data Engineer | Snowflake | Matillion | dbt | IICS | Python | Cloud ETL Frameworks
 
 <!--
 I’m a Data Engineer with 12+ years of experience in **ETL/ELT pipelines, data integration, and cloud data platforms**.  
